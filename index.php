@@ -1,4 +1,5 @@
 <?php
+// toi la user1
 session_start();
 // router
 // c là controller
